@@ -3,7 +3,7 @@
 ### Purpose:
 Repository to track completion of Project Euler problems. Mainly in C, some in Python.
 
-##Problems solved:
+## Problems solved:
 
 ### C:
 <ul>

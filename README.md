@@ -6,11 +6,11 @@ Repository to track completion of Project Euler problems. Mainly in C, some in P
 ##Problems solved:
 
 ### C:
-<ol>
+<ul>
 <li>May 27, 2021: 0 out of 757
-</ol>
+</ul>
 
 ### Python: 
-<ol>
+<ul>
 <li>May 27, 2021: 0 out of 757
-</ol>
+</ul>

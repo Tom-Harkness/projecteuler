@@ -7,7 +7,7 @@ Repository to track completion of Project Euler problems. Mainly in C, some in P
 
 ### C:
 <ul>
-<li>May 27, 2021: 0 out of 757
+<li>May 27, 2021: 5 out of 757
 </ul>
 
 ### Python: 

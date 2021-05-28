@@ -1,4 +1,4 @@
-// Project Euler problem 5: https://projecteuler.net/problem=6
+// Project Euler problem 6: https://projecteuler.net/problem=6
 // Author: Tom Harkness
 // May 29, 2021
 

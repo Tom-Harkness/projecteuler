@@ -25,7 +25,6 @@ if __name__ == "__main__":
     pandigital_numbers = [int(''.join(p)) for p in permutations(digits)][::-1]
     for n in pandigital_numbers:
         print(f"testing {n}")
-        print(type(n))
         if isPrime(n):
             print(f"found a prime: {n}")
             break

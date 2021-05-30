@@ -50,7 +50,6 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
-README.md
 C/problem1
 C/problem2
 C/problem3
@@ -70,3 +69,6 @@ README.md
 Python/__pycache__/problem22.cpython-38.pyc
 Python/__pycache__/problem34.cpython-38.pyc
 Python/__pycache__/problem41.cpython-38.pyc
+C/test
+C/test.c
+C/problem27

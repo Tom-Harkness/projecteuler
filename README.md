@@ -12,5 +12,5 @@ Repository to track completion of Project Euler problems. Mainly in C and Python
 
 ### Python: 
 <ul>
-<li>May 27, 2021: 23 out of 757
+<li>May 27, 2021: 24 out of 757
 </ul>

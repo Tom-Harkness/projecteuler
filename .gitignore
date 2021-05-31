@@ -62,7 +62,6 @@ C/problem9
 C/problem10
 C/problem14
 .vscode/settings.json
-Python/utilityfunctions.py
 Python/__pycache__/problem5.cpython-38.pyc
 Python/__pycache__/problem21.cpython-38.pyc
 README.md
@@ -72,3 +71,6 @@ Python/__pycache__/problem41.cpython-38.pyc
 C/test
 C/test.c
 C/problem27
+Python/__pycache__/problem28.cpython-38.pyc
+Python/__pycache__/problem49.cpython-38.pyc
+Python/__pycache__/utilityfunctions.cpython-38.pyc

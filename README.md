@@ -13,11 +13,11 @@ Repository to track completion of Project Euler problems. Mainly in C and Python
 ### Python: 
 <ul>
 <li>May 31, 2021: 35 out of 757
-<li>June 3, 2021: 40 out of 757
+<li>June 4, 2021: 41 out of 757
 </ul>
 
 ### Total: 
 <ul>
 <li>May 31, 2021: 38 out of 757
-<li>June 3, 2021: 43 out of 757
+<li>June 4, 2021: 44 out of 757
 </ul>

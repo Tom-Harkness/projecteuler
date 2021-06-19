@@ -27,18 +27,16 @@ def primeFactors(n):
 
     if n % 2 == 0:
         while n % 2 == 0:
-            n /= 2
+            n //= 2
             pfactors.append(2)
 
     i = 3
-    while (i*i<n):
+    while (i*i<=n):
         if n % i == 0:
             while n % i == 0:
                 n /= i
                 pfactors.append(i)
-                print(f"n: {n}, i: {i}")
         i += 2
-    pfactors.append(int(n))
     return pfactors
 
 def distinctPrimeFactors(n):
@@ -81,6 +79,14 @@ def sieve_of_eratosthenes(limit):
                 m += n
         n += 1
     return [_ for _ in range(len(numbers)) if numbers[_]]
+
+def phi(n):
+    pfactors = primeFactors(n)
+    result = 1
+    for p in set(pfactors):
+        exp = pfactors.count(p)
+        result *= p**(exp-1)*(p-1)
+    return result
 
 def getProperDivisors(n):
     if n == 1:

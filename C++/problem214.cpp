@@ -89,15 +89,11 @@ bool scanChain(ll n) {
 }
 
 int main() {
-    // ll count = 0;
-    // for (int i = 1; i < 5*1e6; i++) {
-    //     count += phi(i);
-    // }
-    // cout << count << endl;
     ll answer = 0;
     ll limit = 4e7;
     vector<ll> primes = sieve_of_eratosthenes(limit);
     for (auto p : primes) {
+        cout << p << endl;
         if (scanChain(p)) {
             answer += p;
         }
